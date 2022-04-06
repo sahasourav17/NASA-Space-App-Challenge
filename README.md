@@ -1,4 +1,4 @@
-# Nasa-Space-App-Challege-2021
+# Nasa-Space-App-Challenge-2021
 
  ## Team : Green Hawk 
 
