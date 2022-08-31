@@ -5,7 +5,7 @@
 > Stop DENYING the Earth is DYING
 
 ## Here's the link of our Project Demo
-> [click here](https://youtu.be/ctqOdk3OP3Y)
+> [See Project](https://youtu.be/ctqOdk3OP3Y)
 
 We, the Green-Hawk team, are competing in the NASA Space App Challenge 2021 under the theme "WARNING: THINGS ARE HEATING UP!".  We used time series analysis and forecasting to forecast how our beloved planet's temperature will change over the next 100 years.
 
